@@ -1,0 +1,7 @@
+requests
+neo4j
+prefect
+transformers
+python-dotenv
+pyvis
+openai
